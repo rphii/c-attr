@@ -2,7 +2,7 @@
 
 ## Dependencies
 
-- [c-attr](https://github.com/rphii/c-attr)
+- [c-platform-detect](https://github.com/rphii/c-platform-detect)
 
 ## Installation
 
