@@ -1,0 +1,8 @@
+prefix=/usr
+includedir=${prefix}/include
+
+Name: c-attr
+Description: C attribute header
+Cflags: -I${includedir}/rphii
+Version: 9999
+
